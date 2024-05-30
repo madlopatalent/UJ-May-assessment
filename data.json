@@ -1,38 +1,49 @@
 {
-    "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+    "user": {
+        "fullName": "Tallent Tsakane Madlopa",
+        "photo": "AirBrush_20240504180109.jpg",
+        "phone": "071 529 3562",
+        "email": "Madlopatalent54@gmail.com",
+        "intership": "Participating in the 4IR work readiness Programme conducted by UJ in collaboration with Accenture SA."
     },
-    "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+    "education": {
+        "institutionName": "University of mpumalanga",
+        "photo": "",
+        "description": ""
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
+    "skill": {
+        "name": "communication skill, computer skills ",
+        "names": "time management, technical skills",
+        "skills": "technical skills, and strong organazational"
+    },
+    "foreignLanguage": {
+        "language": "spanish",
+        "phrases": [
+            {
+                "englishPhrase": "greeting",
+                "foreignLanguage": "saludo"
+            },
+            {
+                "englishPhrase": "graduate",
+                "foreignLanguage": "Graduada"
+            }
+        ]
+    },
+    "favouriteSubjects": [
+        {
+            "name": "xitsonga",
+            "description": "it is my favorite because it is my home language"
         },
         {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
-    },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
+            "name": "English",
+            "description": "it is my favorite because it is a medium of structure"
         },
         {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
+            "name": "isizulu",
+            "description": "it is my favorite because it is easy and also simmilar to my home language, and most people knows and understand it"
         }
-    ]
+    ],
+    "intership":{
+        "courses": "It's more based on:Agile Rapid Skillls Acquisition, Engineering Business system for 4IR, and Full stack Development for 4IR."
+    }
 }
