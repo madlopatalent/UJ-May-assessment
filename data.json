@@ -1,7 +1,7 @@
 {
     "user": {
         "fullName": "Tallent Tsakane Madlopa",
-        "photo": "AirBrush_20240504180109.jpg",
+        "photo": "./images/my pic.jpg",
         "phone": "071 529 3562",
         "email": "Madlopatalent54@gmail.com",
         "intership": "Participating in the 4IR work readiness Programme conducted by UJ in collaboration with Accenture SA."
@@ -45,5 +45,6 @@
     ],
     "intership":{
         "courses": "It's more based on:Agile Rapid Skillls Acquisition, Engineering Business system for 4IR, and Full stack Development for 4IR."
-    }
+    },
+    "photo":"./dist/public/my pic.jpg"
 }
